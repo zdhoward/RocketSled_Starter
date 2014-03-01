@@ -1,6 +1,5 @@
 <?php
 	include 'common.class.php';
-	//include '../HelloWorld/say_hello.class.php';
 	
 	class DisplayImages implements RocketSled\Runnable
 	{
